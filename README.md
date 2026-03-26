@@ -147,9 +147,9 @@ Ensure the `.env` file contains valid API keys and there are no extra spaces.
 
 ## License
 
-This project is intended for **educational purposes**. You may add a license such as the **MIT License** before publishing publicly.
+This project is intended for **educational purposes**. 
+You may add a license such as the **MIT License** before publishing publicly.
 
 ## Author
 
-**Ashish Rana**
-Generative AI | Machine Learning | Software Development
+**Ashish Rana , Ujjwal Mehta, Jay Patidar, Ravi Patidar**
