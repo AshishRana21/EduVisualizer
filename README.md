@@ -1,0 +1,2 @@
+# EduVisualizer
+Gen AI project 
